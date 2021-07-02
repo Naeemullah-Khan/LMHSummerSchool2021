@@ -9,6 +9,7 @@ In this two week long course we will learn about the basics of Artificial Intell
 
 <div class="datatable-begin"></div>
 
+Week1|
 Lecture    | Topic                         | 
 ------- | ------------------------------------- |
 Lecture 1 | Python Intro           | 
