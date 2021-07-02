@@ -5,7 +5,7 @@ In this two week long course we will learn about the basics of Artificial Intell
 
 
 
-##Week 1
+## Week 1
 
 <div class="datatable-begin"></div>
 
