@@ -2,16 +2,26 @@
 
 In this two week long course we will learn about the basics of Artificial Intelligence and Machine Learning. The course is fully self-contained and only basic knowledge of Calculus and Linear Algebra is required: We will follow the following outline for the lectures.
 
-| Lecture |Topic |
-------------------
-|Lecture 1 | Python Introduction|
 
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+
+| Lecture  |      Topic      |
+|----------|:-------------:|
+| col 1 is |  left-aligned |
+| col 2 is |    centered   |
+| col 3 is | right-aligned |
+
+
+<div class="datatable-begin"></div>
+
+Food    | Description                           | Category | Sample type
+------- | ------------------------------------- | -------- | -----------
+Apples  | A small, somewhat round ...           | Fruit    | Fuji
+Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
+Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
+Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
+
+<div class="datatable-end"></div>
 
 ### Markdown
 
