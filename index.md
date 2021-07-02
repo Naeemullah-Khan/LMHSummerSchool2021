@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to LMH Summer School 2021
 
-You can use the [editor on GitHub](https://github.com/Naeemullah-Khan/LMHSummerSchool2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this two week long course we will learn about the basics of Artificial Intelligence and Machine Learning. The course is fully self-contained and only basic knowledge of Calculus and Linear Algebra is required: We will follow the following outline for the lectures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Lecture |Topic |
+------------------
+|Lecture 1 | Python Introduction|
 
 ### Markdown
 
