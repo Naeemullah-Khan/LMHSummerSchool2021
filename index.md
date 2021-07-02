@@ -5,21 +5,17 @@ In this two week long course we will learn about the basics of Artificial Intell
 
 
 
-| Lecture  |      Topic      |
-|----------|:-------------:|
-| col 1 is |  left-aligned |
-| col 2 is |    centered   |
-| col 3 is | right-aligned |
 
 
 <div class="datatable-begin"></div>
 
-Food    | Description                           | Category | Sample type
-------- | ------------------------------------- | -------- | -----------
-Apples  | A small, somewhat round ...           | Fruit    | Fuji
-Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
+Lecture    | Topic                         | 
+------- | ------------------------------------- |
+Lecture 1 | Python Intro           | 
+Lecture 2 | Object Oriented Programming  | 
+Lecture 3  | Linear Regression 1     | 
+Lecture 4 | Linear Regression 2 | 
+Lecture 5 | Logistic Regression|
 
 <div class="datatable-end"></div>
 
