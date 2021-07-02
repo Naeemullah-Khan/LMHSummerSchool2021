@@ -1,15 +1,14 @@
-## Welcome to LMH Summer School 2021
+# Welcome to LMH Summer School 2021
 
 In this two week long course we will learn about the basics of Artificial Intelligence and Machine Learning. The course is fully self-contained and only basic knowledge of Calculus and Linear Algebra is required: We will follow the following outline for the lectures.
 
 
 
 
-
+##Week 1
 
 <div class="datatable-begin"></div>
 
-Week1|
 Lecture    | Topic                         | 
 ------- | ------------------------------------- |
 Lecture 1 | Python Intro           | 
