@@ -6,6 +6,13 @@ In this two week long course we will learn about the basics of Artificial Intell
 ------------------
 |Lecture 1 | Python Introduction|
 
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
